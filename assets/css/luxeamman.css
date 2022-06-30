@@ -1,0 +1,270 @@
+.luxeColor{
+    color: #3a8bcd;
+}
+
+.dropdown:hover .dropdown-menu{
+    display: block;
+    width: 100%;
+}
+.dropdown-menu{
+    margin-top: 0;
+}
+
+.catalogCard{
+    margin: 10px;
+    text-align: center;
+      
+}
+.catalogCard h4{
+    font-size: x-large;
+    font-style: oblique;
+    font-weight: 400;
+    color: #595959;
+}
+
+
+
+.product-button{
+	padding-top: 10px;
+}
+.product-button a {
+	background-color: #006fb8;
+	border-radius: 5px;
+	padding: 10px 15px;
+	display: inline-block;
+	color: #fff;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 300;
+	letter-spacing: 0.4px;
+	text-decoration: none;
+	transition: all 0.5s;
+	width: 100%;
+	text-align: center;
+	font-weight: bold;
+    /* margin-left: 44%; */
+    /* margin-right: 30%; */
+}
+.product-button a:hover {
+	opacity: 0.7;
+}
+
+.shopatstore{
+    background-image: url("../images/shopatstore.jpeg");
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.shopathome{
+    background-image: url("../images/shopathome.jpeg");
+    background-position: center;
+    background-size: cover;
+    
+}
+.discription {
+    background: rgba(0, 0, 0, 0.523);
+    padding-top: 40px;
+    color: #ffffff;
+    font-weight: 400;
+    text-align: center;
+}
+
+.discription h3{
+    text-align: center;
+}
+
+.discription p{
+    padding-left: 20%;
+    color: #ffffff;
+    margin-top: 30px;
+    width: 80%;
+    padding-bottom: 50px;
+}
+
+.more-button{
+	padding-top: 10px;
+}
+.more-button a {
+	background-color: #006fb8;
+	border-radius: 5px;
+	padding: 10px 15px;
+	display: inline-block;
+	color: #fff;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 300;
+	letter-spacing: 0.4px;
+	text-decoration: none;
+	transition: all 0.5s;
+	width: 50%;
+	text-align: center;
+	font-weight: bold;
+    margin-bottom: 10%;
+    
+    /* margin-left: 44%; */
+    /* margin-right: 30%; */
+}
+.more-button a:hover {
+	opacity: 0.7;
+}
+
+.hero-image{
+    background-image: url("../images/heroimage.jpeg");
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.heroimageText{
+    padding-top: 30%;
+    margin-bottom: 20%;
+    text-align: center;
+}
+
+.heroimageText h3{
+    font-weight: 300;
+    color:#595959;
+}
+.hero-imagebg{
+    background-color: #eef0f249;
+}
+
+.heroimageads p{
+padding-top: 10%;
+text-align: center;
+margin-left: 5%;
+margin-right: 5%;
+margin-bottom: 20%;
+color:#595959;
+font-weight: 400;
+
+}
+
+.choose-image{
+    background-image: url("../images/honest.jpeg");
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.counter {
+    background-color:#f5f5f5;
+    padding: 20px 0;
+    border-radius: 5px;
+}
+.counter h3{
+    color: #595959;
+}
+
+.count-title {
+    font-size: 40px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.count-text {
+    font-size: 13px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.fa-2x {
+    margin: 0 auto;
+    float: none;
+    display: table;
+    color:#3a8bcd;
+}
+
+.choosetag{
+    text-align: center;
+    font-weight: 400;
+    color: #595959;
+}
+.gellary{
+    background-image: url("../images/gellary.jpeg");
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    
+}
+
+.inspire1{
+    background-image: url("");
+    background-position: center;
+    background-size: cover;
+    width: fit-content;
+
+}
+
+.discription2 {
+    background: rgba(0, 0, 0, 0.523);
+    padding-top: 30%;
+    color: #ffffff;
+    font-weight: 400;
+    text-align: center;
+    height: 100%;
+}
+
+.discription2 h3{
+    text-align: center;
+    margin-top: 50%;
+}
+
+.discription2 p{
+    padding-left: 20%;
+    color: #ffffff;
+    margin-top: 50px;
+    width: 80%;
+    padding-bottom: 5px;
+}
+
+
+/*  */
+
+.card {
+    position: relative;
+    display: flex;
+    width: 100px;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: rgba(255, 255, 255, 0);
+    background-clip: border-box;
+    border: 1px solid #006fb8;
+    border-radius: 11px;
+    -webkit-box-shadow: 0px 0px 5px 0px rgb(249, 249, 250);
+    -moz-box-shadow: 0px 0px 5px 0px rgb(2, 2, 2);
+    box-shadow: 0px 0px 5px 0px rgb(161, 163, 164);
+}
+
+ .card .card-body {
+        padding: 1rem 1rem;
+ }
+
+ .card-body {
+     flex: 1 1 auto;
+     padding: 1.25rem
+ }
+
+ 
+
+
+ .logo{
+        height: 67px;
+ }
+
+
+.items {
+    width: 90%;
+    margin: 0px auto;
+    margin-top: 250px
+}
+
+.slick-slide {
+    margin: 10px
+}
